@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fire of Love"
-date:   2022-08-25:17:39 +0000
+date:   2022-08-25 17:39 +0000
 categories: Films, 9
 ---
 
