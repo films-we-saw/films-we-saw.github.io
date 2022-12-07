@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Superpets"
-date:   2022-08-04:17:39 +0000
-categories: Films, Cartoon, Kids film
+date:   2022-08-04 17:39 +0000
+categories: Films, Cartoon, Kids film, 8
 ---
 
 #Superpets
