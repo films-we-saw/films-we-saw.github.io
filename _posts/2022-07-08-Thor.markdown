@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thor: God of Love and Thunder"
-date:   2022-07-28:17:39 +0000
+date:   2022-07-28 17:39 +0000
 categories: Films
 ---
 
