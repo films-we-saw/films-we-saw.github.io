@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
 title: Films we've seen
 description: nonsense blog
