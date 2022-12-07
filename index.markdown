@@ -4,9 +4,6 @@
 
 layout: home
 ---
-#Films we've watched
-
-Hello!
 
 This is a blog with reviews of films we've seen while doing an unlimited cinema membership.
 
