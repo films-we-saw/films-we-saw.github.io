@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bullet train"
-date:   2022-08-05:17:39 +0000
-categories: Films
+date:   2022-08-05 17:39 +0000
+categories: Films, 6
 ---
 
 #Bullet Train
