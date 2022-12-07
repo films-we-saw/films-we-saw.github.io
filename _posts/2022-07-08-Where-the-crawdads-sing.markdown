@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where the Crawdads Sing"
-date:   2022-07-22:17:39 +0000
+date:   2022-07-22 17:39 +0000
 categories: Films
 ---
 
