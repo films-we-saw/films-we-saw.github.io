@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Films we've watched in 2022
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog with reviews of all of the films we've seen with our cinema membership. Sometimes there'll be a score, but it's not based on anything.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  films-we-saw
 
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
