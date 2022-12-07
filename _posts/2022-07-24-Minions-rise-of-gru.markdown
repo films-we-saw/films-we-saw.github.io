@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minions: Rise of Gru"
-date:   2022-07-24:17:39 +0000
+date:   2022-07-24 17:39 +0000
 categories: Films
 ---
 
