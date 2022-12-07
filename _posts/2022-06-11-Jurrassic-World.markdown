@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jurrasic World Dominion"
-date:   2022-11-28 20:17:39 +0000
+date:   2022-06-11 20:17:39 +0000
 categories: Films
 ---
 
