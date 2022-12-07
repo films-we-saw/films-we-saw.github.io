@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Bullet train"
-date:   2022-08-05:17:39 +0000
-categories: Films
+title:  "Fire of Love"
+date:   2022-08-25:17:39 +0000
+categories: Films, 9
 ---
 
-#Bullet Train
-5th August 2022
+#Fire of Love
+25th August 2022
 
-Score: 6/10 
+Score: 9/10 
 
-Multiple part story of loads of deeply unpleasant people on trains - the train journey seems to last like 8 days but it's not that far a journey. 
-
-Brad Pitt doesn't die so I guess that's something. 
+Surprise brilliant documentary. Loved it. Really benefitted from being in a cinema. The visuals and the audio was great, super lovely & sad story. 
