@@ -18,17 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Films we've watched in 2022
-description: >- # this means to ignore newlines until "baseurl:"
+name: Films we've watched in 2022
+description: # this means to ignore newlines until "baseurl:"
   Blog with reviews of all of the films we've seen with our cinema membership. Sometimes there'll be a score, but it's not based on anything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  films-we-saw
+github:  films-we-saw
 
-# Build settings
-theme: minima
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
 plugins:
-- jekyll-feed
+- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+- jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+- jekyll-seo-tag
+- jekyll-paginate
+
+include: ['_pages']
+
+paginate: 12
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

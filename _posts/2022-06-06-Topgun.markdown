@@ -2,12 +2,11 @@
 layout: post
 title:  "Topgun Maverick"
 date:   2022-06-06 20:17:39 +0000
-categories: Films, 5
+categories: [Action, "Rewatch if forced"]
+excerpt: "It was fast planes and Tom Cruise - exactly as expected, but nothing wild to write home about. Would watch again, but would prefer to look at my phone while I did it. 
+
+Probably wouldn't have paid for it. Chris loved it obvs."
 ---
-
-#Topgun Maverick
-6th June 2022
-
 Score: 5/10
 It was fast planes and Tom Cruise - exactly as expected, but nothing wild to write home about. Would watch again, but would prefer to look at my phone while I did it. 
 

@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Dragonball Super Hero"
+title:  "Dragon Ball Super: Super Hero"
 date:   2022-08-28 17:39 +0000
-categories: Films, 3
+categories: [Cartoon, "Never again"]
+excerpt: "Wouldn't have paid to watch it, didn't pay and I'm not sure it was worth it. Haven't seen any of the other dragonball universe content and you really, really needed to. Some stuff happened and I don't know what any of it meant."
 ---
-
-#Dragonball Super Hero
-25th August 2022
-
 Score: 3/10 
 
 Wouldn't have paid to watch it, didn't pay and I'm not sure it was worth it. Haven't seen any of the other dragonball universe content and you really, really needed to. Some stuff happened and I don't know what any of it meant.
