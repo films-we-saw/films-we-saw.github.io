@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Sonic 2"
+title:  "Sonic the Hedgehog 2"
 date:   2022-06-11 20:17:39 +0000
-categories: Films, 7
+categories: [Kids, Rewatch]
+excerpt: "Fun nonsense, pure silliness. Good if you're 5 or not paying attention"
 ---
-
-#Sonic 2
-11th June 2022
-
 Score: 7/10
 
 Fun nonsense, pure silliness. Good if you're 5 or not paying attention

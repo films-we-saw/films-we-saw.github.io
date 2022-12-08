@@ -2,12 +2,9 @@
 layout: post
 title:  "Elvis"
 date:   2022-06-25 20:17:39 +0000
-categories: Films, 7
+categories: [Biopic, "Scroll & rewatch"]
+excerpt: "Was okay, saw it twice. Not sure I ever need to watch it again now"
 ---
-
-#Elvis
-25th June 2022
-
 Score: 7/10
 
 Was okay, saw it twice. Not sure I ever need to watch it again now
