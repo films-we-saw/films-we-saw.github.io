@@ -9,8 +9,7 @@ Wouldn't say it was a laugh a minute but there were some chuckles that balanced 
 
 I'd really like to see more adaptations of Pratchett - I want death / rincewind specific series. 
 
-Wouldn't pay for, wouldn't watch again attentively but wouldn't protest it being on in the background. 
-"
+Wouldn't pay for, wouldn't watch again attentively but wouldn't protest it being on in the background."
 ---
 Score: 7/10 
 
