@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Films we've watched in 2022
+name: Films we've watched 
 description: # this means to ignore newlines until "baseurl:"
   Blog with reviews of all of the films we've seen with our cinema membership. Sometimes there'll be a score, but it's not based on anything.
 baseurl: "" # the subpath of your site, e.g. /blog
